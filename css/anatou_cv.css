@@ -1,0 +1,47 @@
+body{ 
+    width: 70%; 
+    margin-left: 15%;
+} 
+header{ 
+    text-align: center; 
+    border-top: 10px solid #688cd8; 
+    border-bottom: 10px solid #688cd8; 
+    background: #e8eef7;
+} 
+header #addesse{ 
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+} 
+header img{ 
+    float: right;
+    width: 100px;
+
+    
+} 
+article formation{ 
+    border-top: 10px solid #688cd8; 
+    border-bottom: 10px solid #688cd8; 
+    margin-top: 30pt
+}
+.logo{ 
+    margin-left: 50px;
+} 
+.mailto{ 
+    left: -50px;
+}
+header div{
+    margin-left: -300px;
+}
+article{
+    border-top: 10px solid #688cd8;
+    border-bottom: 10px solid #688cd8;
+    background: #e8eef7;
+    margin-top: 30pt;
+}
+.formation{
+    display: flex;
+    color: #385CA8;
+}
+.detail{
+    background-color: white;
+}
